@@ -1,0 +1,11 @@
+{
+  "name": "easy-request",
+  "version": "1.0.0",
+  "description": "node.js http request encapsulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bowen Zhong",
+  "license": "ISC"
+}
