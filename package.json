@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Bowen Zhong",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "follow-redirects": "^1.2.3",
+    "ul": "^5.2.9"
+  }
 }
